@@ -1,16 +1,16 @@
 # Sales Insights - AtliQ Hardware
 
 
-# Problem Statement 
+# Problem Statement :
 AtliQ Hardware, a company specializing in hardware peripherals, has been facing a noticeable decline in sales. To uncover the root causes and identify improvement opportunities, the company brought in a dedicated data analytics team to dive deep into its sales data and provide actionable insights.
 
-# Objective  
+# Objective : 
 To uncover hidden sales patterns and trends, empower the sales team with meaningful insights, automate reporting processes to minimize manual efforts and enhance decision-making efficiency.
 
-# Stakeholders 
+# Stakeholders :
 Sales Director, Marketing Team, Customer Service Department, Data & Analytics Unit , IT Department.
 
-# Outcome 
+# Outcome :
 A fully automated, interactive dashboard delivering real-time sales insights—enabling faster, data-driven decisions and significantly reducing time spent on manual data compilation.
 
 This project enabled me to develop key skills, including:
@@ -26,7 +26,7 @@ This project enabled me to develop key skills, including:
 5. Incorporating stakeholder feedback to refine the solution and deliver an enhanced, requirement-driven dashboard to the client.
 
 
-# Key Insights 
+# Key Insights :
 
 1. Top Revenue - Generating Market is Delhi NCR leads significantly with ₹519.57M, more than 50% of total revenue.
 2. Least Revenue - Generating Markets are Bengaluru (₹0.37M) and Bhubaneshwar (₹0.89M) contribute the least.
