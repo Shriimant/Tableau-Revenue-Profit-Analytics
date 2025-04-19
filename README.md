@@ -35,3 +35,12 @@ A fully automated, interactive dashboard delivering real-time sales insights—e
 5. Profit peaked in 2019 Q2 at ₹86.93M with the highest margin of 4.23%.
 6. E-Commerce accounts for 24.40 %, indicating scope for digital growth.
 
+## Dashboard Views 
+These are the required views -
+## Home View
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Home%20-%20Hospitality%20Domain.png)
+
+## Booking Overview
+![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Booking%20Overview.png)
+ 
+
