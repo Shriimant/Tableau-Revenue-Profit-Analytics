@@ -13,7 +13,7 @@ Sales Director, Marketing Team, Customer Service Department, Data & Analytics Un
 # Outcome :
 A fully automated, interactive dashboard delivering real-time sales insights—enabling faster, data-driven decisions and significantly reducing time spent on manual data compilation.
 
-This project enabled me to develop key skills, including:
+# This project enabled me to develop key skills, including -
 
 1. Gaining a strong grasp of Tableau's core functionalities and interface.
 
