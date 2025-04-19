@@ -37,10 +37,12 @@ A fully automated, interactive dashboard delivering real-time sales insights—e
 
 ## Dashboard Views 
 These are the required views -
-## Home View
-![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Home%20-%20Hospitality%20Domain.png)
+## Revenue Analysis :
+![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Revenue%20Analysis.png)
 
-## Booking Overview
+## Profit Analysis :
+
+After stakeholder's feedback, the refined view 
 ![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Booking%20Overview.png)
  
 
