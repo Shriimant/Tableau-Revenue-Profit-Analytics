@@ -43,6 +43,7 @@ These are the required views -
 ## Profit Analysis :
 
 After stakeholder's feedback, the refined view 
-![image_alt](https://github.com/Shriimant/PowerBI-Hotel-Revenue-Insights-/blob/main/Booking%20Overview.png)
+
+![image_alt](https://github.com/Shriimant/Tableau-Revenue-Profit-Analytics/blob/main/Dashboard%20-%20Profit%20Analysis.png)
  
 
