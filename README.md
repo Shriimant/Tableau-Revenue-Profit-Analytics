@@ -1,5 +1,6 @@
 # Sales Insights - AtliQ Hardware
 
+
 # Problem Statement 
 AtliQ Hardware, a company specializing in hardware peripherals, has been facing a noticeable decline in sales. To uncover the root causes and identify improvement opportunities, the company brought in a dedicated data analytics team to dive deep into its sales data and provide actionable insights.
 
